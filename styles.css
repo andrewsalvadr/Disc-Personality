@@ -1,0 +1,82 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif; 
+}
+
+#quiz-container {
+    width: 600px;
+    max-width: 95%; 
+    padding: 20px;
+    margin: 20px auto; 
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
+    background-color: #fff; 
+}
+
+.progress {
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: center; 
+}
+
+.question {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.option {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.option:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.option img {
+    width: 50px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.option p {
+    margin: 0;
+    font-size: 16px;
+}
+
+button#submitBtn {
+    display: block;
+    width: 100%; 
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+}
+
+button#submitBtn:hover {
+    background-color: #0056b3;
+}
+
+@media (max-width: 640px) {
+    #quiz-container {
+        width: 95%; 
+        margin: 20px auto;
+        padding: 15px;
+    }
+}

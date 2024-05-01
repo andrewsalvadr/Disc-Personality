@@ -1,0 +1,187 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "question": "When working on a project, I prefer to:",
+        "options": [
+          {
+            "text": "Lead and direct others.",
+            "value": "D",
+            "icon": "icons/lead.svg"
+          },
+          {
+            "text": "Research and gather data.",
+            "value": "C",
+            "icon": "icons/research.svg"
+          },
+          {
+            "text": "Support team members emotionally.",
+            "value": "S",
+            "icon": "icons/team-support.svg"
+          },
+          {
+            "text": "Generate creative ideas.",
+            "value": "I",
+            "icon": "icons/creative.svg"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "question": "I enjoy:",
+        "options": [
+          {
+            "text": "Competing with others.",
+            "value": "D",
+            "icon": "icons/compete.svg"
+          },
+          {
+            "text": "Analyzing details.",
+            "value": "C",
+            "icon": "icons/analyze.svg"
+          },
+          {
+            "text": "Maintaining stability.",
+            "value": "S",
+            "icon": "icons/stability.svg"
+          },
+          {
+            "text": "Inspiring people.",
+            "value": "I",
+            "icon": "icons/inspire.svg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "My communication style is:",
+        "options": [
+          {
+            "text": "Assertive and commanding.",
+            "value": "D",
+            "icon": "icons/assertive.svg"
+          },
+          {
+            "text": "Cautious and precise.",
+            "value": "C",
+            "icon": "icons/precise.svg"
+          },
+          {
+            "text": "Warm and empathetic.",
+            "value": "S",
+            "icon": "icons/empathetic.svg"
+          },
+          {
+            "text": "Enthusiastic and expressive.",
+            "value": "I",
+            "icon": "icons/expressive.svg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "In a team, I am usually the one who:",
+        "options": [
+          {
+            "text": "Pushes the team towards goals.",
+            "value": "D",
+            "icon": "icons/push.svg"
+          },
+          {
+            "text": "Looks into the facts and figures.",
+            "value": "C",
+            "icon": "icons/facts.svg"
+          },
+          {
+            "text": "Makes sure everyone is harmonious.",
+            "value": "S",
+            "icon": "icons/harmony.svg"
+          },
+          {
+            "text": "Brings in new ideas.",
+            "value": "I",
+            "icon": "icons/new-ideas.svg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "I make decisions based on:",
+        "options": [
+          {
+            "text": "What achieves results fastest.",
+            "value": "D",
+            "icon": "icons/fast.svg"
+          },
+          {
+            "text": "Logical analysis.",
+            "value": "C",
+            "icon": "icons/think-analysis.svg"
+          },
+          {
+            "text": "How it affects others.",
+            "value": "S",
+            "icon": "icons/others.svg"
+          },
+          {
+            "text": "What is most innovative.",
+            "value": "I",
+            "icon": "icons/innovative.svg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Under pressure, I tend to:",
+        "options": [
+          {
+            "text": "Take charge and make decisions.",
+            "value": "D",
+            "icon": "icons/charge.svg"
+          },
+          {
+            "text": "Focus on the details and the process.",
+            "value": "C",
+            "icon": "icons/details.svg"
+          },
+          {
+            "text": "Ensure everyone is coping well.",
+            "value": "S",
+            "icon": "icons/ensure.svg"
+          },
+          {
+            "text": "Look for new solutions.",
+            "value": "I",
+            "icon": "icons/solutions.svg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "I find it easiest to:",
+        "options": [
+          {
+            "text": "Challenge the status quo.",
+            "value": "D",
+            "icon": "icons/challenge.svg"
+          },
+          {
+            "text": "Work with data and systems.",
+            "value": "C",
+            "icon": "icons/data.svg"
+          },
+          {
+            "text": "Connect with people.",
+            "value": "S",
+            "icon": "icons/connect.svg"
+          },
+          {
+            "text": "Engage in creative activities.",
+            "value": "I",
+            "icon": "icons/creative-activities.svg"
+          }
+        ]
+      }
+    ]
+  }
+  
